@@ -1,20 +1,16 @@
-* {
-	font-family:Venetian;
-}
-h1 {
+/*h1 {
 	color:darkred;
-}
+}*/
 h2 {
 	color:purple;
 }
-table {
-	background:silver;
-}
 body {
 	background-color:lightblue;
+	font-family:cursive;
 }
 table {
 	border:1px violet solid;
+	background-color:silver
 }
 div {
 	border-radius: 5px;
