@@ -1,0 +1,35 @@
+* {
+	font-family:cursive;
+}
+h1 {
+	color:darkred;
+}
+h2 {
+	color:purple;
+}
+#header {
+	background-color:red;
+	font-size:30px;
+}
+.hobbies {
+	background-color:blue;
+	font-family:Venetian;
+}
+body {
+	background-color:lightblue;
+}
+table {
+	border:1px violet solid;
+	background-color:silver;
+	table-layout:center;
+}
+div {
+	border-radius:5px;
+	border:2px solid #6495ED;
+	text-align:center;
+}
+td {
+	border-radius:5px;
+	border:1px dashed black;
+	text-align:center;
+}
